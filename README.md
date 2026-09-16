@@ -1,4 +1,13 @@
-# Sample Snack app
+<div align="center">
+  
+  # React Native
+  
+  <img width="500" height="609" alt="image" src="https://github.com/user-attachments/assets/f8a42aa6-e815-4060-8ce9-4dd9845c3300" />
+</div>
+
+---
+
+## Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
